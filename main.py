@@ -1,5 +1,3 @@
-python
-복사
 import streamlit as st
 from googleapiclient.discovery import build
 import pandas as pd
